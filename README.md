@@ -11,3 +11,6 @@ Sample website with plenty of files for demos.  To demo simple Git and Github ex
 
 ## How to Contribute
 Will let you know later on how to contribute and the licensing
+
+## Copyright
+2017 Git.Training
